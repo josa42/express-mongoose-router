@@ -1,4 +1,4 @@
-# Express Mongoo Router
+# Express Mongoose Router
 
 A simple router that exposes mongoose models in a REST api.
 
