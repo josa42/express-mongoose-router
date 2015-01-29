@@ -3,8 +3,20 @@
   "version": "0.1.0",
   "description": "A simple router that exposes mongoose models in a REST api.",
   "main": "lib/rest_router.js",
+  "author": "Josa Gesell <josa@gesell.me>",
+  "contributors": [{
+    "name": "Josa Gesell",
+    "email": "josa@gesell.me"
+  }],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/josa42/express-mongoose-router.git"
+  },
+  "bugs": {
+    "url": "https://github.com/josa42/express-mongoose-router/issues"
   },
   "author": "Josa Gesell <josa@gesell.me>",
   "license": "MIT",
