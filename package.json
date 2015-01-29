@@ -1,6 +1,6 @@
 {
   "name": "express-mongoose-router",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A simple router that exposes mongoose models in a REST api.",
   "main": "lib/rest_router.js",
   "scripts": {
