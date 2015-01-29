@@ -1,0 +1,16 @@
+{
+  "name": "express-mongoose-router",
+  "version": "0.0.0",
+  "description": "A simple router that exposes mongoose models in a REST api.",
+  "main": "lib/rest_router.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Josa Gesell <josa@gesell.me>",
+  "license": "MIT",
+  "dependencies": {
+    "change-case": "^2.2.0",
+    "express": "^4.11.1",
+    "plural": "^0.1.6"
+  }
+}
